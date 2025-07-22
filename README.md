@@ -1,0 +1,2 @@
+# javascrip
+học javascript
